@@ -9,5 +9,5 @@ Therefore if I can accurately predict the likelihood of the first stage rocket l
 
 #### Web App: [SpaceX_Dashboard](https://spacex-capstone-dashboard.herokuapp.com/)
 
-The project report can be viewed on the following page:
-[Report (PDF)](https://github.com/Molo-M/SpaceX_Landing_Prediction/blob/main/Report%20(PDF).pdf)
+If the **report** fails to open on github, view it on this link:
+[Report (PDF)](https://drive.google.com/file/d/1kh75MblIB9dmhCtzRikZE71QRWZ80d6E/view?usp=sharing)
